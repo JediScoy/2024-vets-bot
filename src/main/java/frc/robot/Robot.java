@@ -65,7 +65,7 @@ public class Robot extends TimedRobot {
   private final DifferentialDrive m_robotDrive = new DifferentialDrive(m_leftfront, m_rightfront);
   private final Joystick driver = new Joystick(0);
   private final XboxController operator = new XboxController(1);
-
+}
 
 
   /**
